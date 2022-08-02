@@ -108,8 +108,8 @@
 
   <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
   [![LinkedIn Badge](https://img.shields.io/badge/-Gao_Yiping-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gao-yiping/)](https://www.linkedin.com/in/gao-yiping/)&nbsp;
-  [![Gmail Badge](https://img.shields.io/badge/-pablo.pds100@gmail.com-red?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:pablo.pds100@gmail.com)&nbsp;
-  [![Instagram Badge](https://img.shields.io/badge/-Pepyn0__-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/pepyn0_/)&nbsp;
+  [![Gmail Badge](https://img.shields.io/badge/-B200072@e.ntu.edu.sg-blue?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:B200072@e.ntu.edu.sg)&nbsp;
+  [![Instagram Badge](https://img.shields.io/badge/-Pepyn0__-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/pingz247/)&nbsp;
   [![Twitter Badge](https://img.shields.io/badge/-Pepyn0-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Pepyn0)&nbsp;
   [![AniList Badge](https://img.shields.io/badge/-Pepyn0-C063FF?style=flat-square&logo=Anilist&logoColor=white)](https://anilist.co/user/Pepyn0/)
 
