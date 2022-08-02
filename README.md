@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there, I'm Yiping! 👋
 
 - 🔭 I’m currently working on REST website
 - 🌱 I’m currently learning Nest.Js
