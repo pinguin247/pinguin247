@@ -23,7 +23,7 @@
 
   ## 🧭 &nbsp;About Me
 
-  - 📚 Business and Computing Year 3 student at NTU
+  - 📚 Business and Computing Year 4 student at NTU
   <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
 
   - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **NestJS** and **Python**.
@@ -58,7 +58,7 @@
   - NestJS
   - TypeScript
   - ReactJS
-  - Unity
+  - SpringBoot
 
 </div>
 
