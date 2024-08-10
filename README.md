@@ -26,7 +26,7 @@
   - 📚 Business and Computing Year 4 student at NTU
   <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
 
-  - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **NestJS** and **Python**.
+  - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **NestJS** and **Java**.
 
   - 💬 Ask me about **any technology**.
 
@@ -54,11 +54,11 @@
 
   ## 📚 &nbsp;Currently studying
 
-  - Figma
   - NestJS
   - TypeScript
   - ReactJS
   - SpringBoot
+  - NextJs
 
 </div>
 
